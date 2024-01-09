@@ -11,8 +11,12 @@
             "id": "0ee252583fd9c856",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "최종 질문.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "최종 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "최종 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "최종 질문.md"
+              }
             }
           }
         ]
@@ -140,6 +148,12 @@
   },
   "active": "0ee252583fd9c856",
   "lastOpenFiles": [
-    "무제 파일.md"
+    "CAL 면접.md",
+    "무제 파일.md",
+    "최종 질문.md",
+    "afsdfdasafs.md",
+    "무제 파일 1.md",
+    "남은 목록.md",
+    "photos/Pasted image 20240102180535 1.png"
   ]
 }
