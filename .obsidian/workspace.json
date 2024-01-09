@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "162729684b00f628",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2dbef15bfed0973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1042419c3c71c50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "daa83b2d38c35660",
+    "type": "split",
+    "children": [
+      {
+        "id": "06a7e611406e86df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7300783ab33ed546",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbafdfe5678e8064",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7442eada194b3e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c22cabfae4a2f8e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f58da60235eea5e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a0fefc28351b08d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dceb7c81bd39db77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dd33b17c3123f64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d474b5ba509b1fc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "7300783ab33ed546",
+  "lastOpenFiles": [
+    "기능.md",
+    "CAL 면접.md",
+    "afsdfdasafs.md",
+    "1월 8일 현재 해야 하는 것들.md",
+    "기능/퇴근 버튼.md",
+    "기능/출근 버튼.md",
+    "기능/총 연차, 잔여 연차.md",
+    "기능/주간 근태 관리.md",
+    "기능/일간 근태 관리.md",
+    "기능/월간 근태 관리.md",
+    "기능/미결재, 작성 문서.md",
+    "기능/마이 페이지 사진 업데이트.md",
+    "기능/근무 시간, 그래프.md",
+    "기능",
+    "Template/Function Description.md",
+    "Template",
+    "photos/Pasted image 20240102180535.png",
+    "photos/Pasted image 20240101183953.png",
+    "photos/Pasted image 20231230184822.png",
+    "photos/Pasted image 20231230184511.png",
+    "photos/Pasted image 20231230182718.png",
+    "photos/Pasted image 20231230181643.png",
+    "photos/Pasted image 20231230181616.png",
+    "photos/Pasted image 20231229141805.png",
+    "photos/Pasted image 20231229141105.png",
+    "photos/Pasted image 20231229135328.png",
+    "photos",
+    "무제 파일.md",
+    "남은 목록.md",
+    "기술면접.md"
+  ]
+}
