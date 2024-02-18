@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dfa1327c8c595474",
+        "id": "ffd8b17f4f9cf5dd",
         "type": "tabs",
         "children": [
           {
-            "id": "0ee252583fd9c856",
+            "id": "fcee64dcc2d886fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1월 15일부터 시작하는 2024년 새해 계획.md",
+                "file": "일본 갈 때 가져갈 짐 들.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c677d5094449a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ending Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1월 15일부터 시작하는 2024년 새해 계획.md",
+                "file": "Ending Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1월 15일부터 시작하는 2024년 새해 계획.md",
+                "file": "Ending Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1월 15일부터 시작하는 2024년 새해 계획.md"
+                "file": "Ending Note.md"
               }
             }
           }
@@ -146,14 +159,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0ee252583fd9c856",
+  "active": "1c677d5094449a45",
   "lastOpenFiles": [
-    "남은 목록.md",
-    "1월 15일부터 시작하는 2024년 새해 계획.md",
-    "무제 파일 1.md",
-    "최종 질문.md",
-    "무제 파일.md",
+    "일본 갈 때 가져갈 짐 들.md",
+    "Ending Note.md",
     "CAL 면접.md",
+    "최종 질문.md",
+    "아시아정보시스템 면접.md",
+    "남은 목록.md",
+    "기능.md",
+    "기술면접.md",
+    "1월 15일부터 시작하는 2024년 새해 계획.md",
+    "1월 24일 앞으로 해야 할 것들 or 할 것들.md",
+    "무제 파일 1.md",
+    "1월 8일 현재 해야 하는 것들.md",
     "afsdfdasafs.md",
     "photos/Pasted image 20240102180535 1.png"
   ]
