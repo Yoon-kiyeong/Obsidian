@@ -1,64 +1,52 @@
 {
   "main": {
-    "id": "162729684b00f628",
+    "id": "40f267d16bccad14",
     "type": "split",
     "children": [
       {
-        "id": "b6cc7f6d0737c4fa",
+        "id": "bfb65b07b7cbed4b",
         "type": "tabs",
         "children": [
           {
-            "id": "3bf42aeb9fa5a42c",
+            "id": "7872c16fe278d02c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "최종 질문.md",
+                "file": "Money.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7cad67fbf527e8d8",
+            "id": "9dd117307c2002e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "우선순위 List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa2b0a2f5cc82552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "집을 구할 때 찾아볼 주변 시설들.md",
+                "file": "週末.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "daa83b2d38c35660",
+    "id": "5da016e8c69e990c",
     "type": "split",
     "children": [
       {
-        "id": "06a7e611406e86df",
+        "id": "fe0ef75d6beede9a",
         "type": "tabs",
         "children": [
           {
-            "id": "7300783ab33ed546",
+            "id": "eb4dbf1524725399",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +56,7 @@
             }
           },
           {
-            "id": "fbafdfe5678e8064",
+            "id": "d9835b697d7095ab",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +71,7 @@
             }
           },
           {
-            "id": "c7442eada194b3e6",
+            "id": "827d5161ce5a4d92",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "c22cabfae4a2f8e7",
+    "id": "0e857b6edb9bb46a",
     "type": "split",
     "children": [
       {
-        "id": "f58da60235eea5e8",
+        "id": "1950dbaa35b151d3",
         "type": "tabs",
         "children": [
           {
-            "id": "2a0fefc28351b08d",
+            "id": "ef78abdde728defb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "집을 구할 때 찾아볼 주변 시설들.md",
+                "file": "週末.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +110,19 @@
             }
           },
           {
-            "id": "dceb7c81bd39db77",
+            "id": "2d69bdcd597352b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "집을 구할 때 찾아볼 주변 시설들.md",
+                "file": "週末.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0dd33b17c3123f64",
+            "id": "7d11ac84b1aa2a1e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +133,12 @@
             }
           },
           {
-            "id": "d474b5ba509b1fc9",
+            "id": "63c274c22f4a289d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "집을 구할 때 찾아볼 주변 시설들.md"
+                "file": "週末.md"
               }
             }
           }
@@ -171,59 +159,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fa2b0a2f5cc82552",
+  "active": "9dd117307c2002e8",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "일본 갈 때 가져갈 짐 들.md",
-    "Ending Note.md",
-    "입사시 필요 서류.md",
-    "기술면접_일본어.md",
-    "우선순위 List.md",
-    "1월 15일부터 시작하는 2024년 새해 계획.md",
-    "기술면접.md",
-    "3월 10일까지 휴식기간 동안 할 것.md",
->>>>>>> 707a88beff6ee0785216b0f780f9e1086d73c920
+    "週末.md",
+    "Money.md",
+    "Workout.md",
     "최종 질문.md",
-    "집을 구할 때 찾아볼 주변 시설들.md",
-    "무제 폴더",
-    "기술면접.md",
-    "기술면접_일본어.md",
-    "우선순위 List.md",
     "입사시 필요 서류.md",
-    "Ending Note.md",
-    "1월 15일부터 시작하는 2024년 새해 계획.md",
     "일본 갈 때 가져갈 짐 들.md",
-    "3월 10일까지 휴식기간 동안 할 것.md",
-    "Template/afsdfdasafs.md",
-    "Template/Function Description.md",
-    "기능/출근 버튼.md",
-    "기능/월간 근태 관리.md",
-    "기능/퇴근 버튼.md",
-    "기능/총 연차, 잔여 연차.md",
-    "기능/마이 페이지 사진 업데이트.md",
-    "기능/근무 시간, 그래프.md",
-    "기능/일간 근태 관리.md",
-    "기능/미결재, 작성 문서.md",
-    "photos/Pasted image 20231230182718.png",
-    "photos/Pasted image 20231230181643.png",
-    "photos/Pasted image 20231229141105.png",
-    "photos/Pasted image 20231229141805.png",
-    "photos/Pasted image 20231230181616.png",
-    "photos/Pasted image 20231229135328.png",
-    "photos/Pasted image 20231229134017.png",
-    "photos/Pasted image 20231229133955.png",
-    "1월 8일 현재 해야 하는 것들.md",
-    "기능.md",
-    "남은 목록.md",
-    "1월 24일 앞으로 해야 할 것들 or 할 것들.md",
-    "아시아정보시스템 면접.md",
-    "CAL 면접.md",
-    "photos/Pasted image 20240102180535 1.png",
-    "photos/Pasted image 20240101183953 1.png",
-    "Obsidian Vault.zip",
-    "기능",
-    "Template",
-    "photos"
+    "우선순위 List.md",
+    "기술면접.md",
+    "1월 15일부터 시작하는 2024년 새해 계획.md"
   ]
 }
